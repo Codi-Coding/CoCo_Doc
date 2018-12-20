@@ -1,5 +1,5 @@
 ---
-title : CoCo-prototype(ver 1.0.0) 
+title : CoCo_version_decument(ver 1.0.0) 
 writer : khosungpil
 type : Version document(official)
 local : soma05
