@@ -194,14 +194,6 @@ objective : 로컬에서 COCO 실행법 메뉴얼
   - Returns:
     + resizing 된 이미지
 
-## Image Synthesis processing ##
-: 이미지 합성 수행
-
-1. '통신 테스트용' 폴더
-2. flask_server_to_deep.py
-3. 1115_final.py
-4. post_test.py 설정 변경 후 실행
-
 
 
 
