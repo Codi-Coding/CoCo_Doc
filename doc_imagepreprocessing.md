@@ -7,7 +7,7 @@ objective : 로컬에서 COCO 실행법 메뉴얼
 ---
 
 # CoCo official manual #
-### 2018.12.17 작성
+### 2018.12.26 작성
 
 ## User Data folder 만들기 ##
 : ID를 부여하고 그 ID폴더를 만든 후 하위폴더에 필요한 폴더 생성
@@ -192,7 +192,16 @@ objective : 로컬에서 COCO 실행법 메뉴얼
     + 가로:세로가 3:4일 때 가로가 좀 더 길면 image_trim_width() 수정해야 할 듯
     + 모델 원본 이미지 resizing
   - Returns:
-    + resizingehls 된 이미지
+    + resizing 된 이미지
+
+## Image Synthesis processing ##
+: 이미지 합성 수행
+
+1. '통신 테스트용' 폴더
+2. flask_server_to_deep.py
+3. 1115_final.py
+4. post_test.py 설정 변경 후 실행
+
 
 
 
